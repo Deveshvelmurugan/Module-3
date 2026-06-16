@@ -22,8 +22,15 @@ To write a Python program to create a tuple containing all multiples of 5 up to 
 ### PROGRAM
 
 ```
+
+t=eval(input())
+print('52' in t)
+print('12' in t or 12 in t)
+
 ```
 
 ### OUTPUT
+<img width="1028" height="284" alt="601362153-a5f598a4-93e2-47a7-8748-649113879614" src="https://github.com/user-attachments/assets/a8c95abd-a44c-4378-b017-af30e5f15fc7" />
 
 ### RESULT
+Thus a Python program to check whether an element 52 and 12 are there in the tuple has been successfully implemented.
